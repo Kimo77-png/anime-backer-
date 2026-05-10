@@ -1,0 +1,15 @@
+{
+  "name": "animestream",
+  "version": "1.0.0",
+  "description": "AnimeStream – Watch anime online",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
